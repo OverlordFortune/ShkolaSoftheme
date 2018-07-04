@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<MobileAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <accountBook>
+    <Account>
+      <Name>Dima</Name>
+      <PhoneNumber>+38019864880</PhoneNumber>
+    </Account>
+  </accountBook>
+  <Number>+380297258096</Number>
+  <Email>overlordfortune@gmail.com</Email>
+  <Name>Artur</Name>
+  <LastName>Sitnichenko</LastName>
+  <BirthDate>1997-01-09T00:00:00</BirthDate>
+</MobileAccount>

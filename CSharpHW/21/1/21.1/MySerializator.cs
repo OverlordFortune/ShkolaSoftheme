@@ -12,7 +12,7 @@ namespace _21._1
         public static bool BinarySerializer(MobileAccount account)
         {
             BinaryFormatter formatter = new BinaryFormatter();
-            using (FileStream fs = new FileStream("Binaty" + account.Number + ".dat", FileMode.OpenOrCreate))
+            using (FileStream fs = new FileStream(account.Number + "Binary"  + ".dat", FileMode.OpenOrCreate))
             {
                 formatter.Serialize(fs, account);
                 return true;
@@ -25,7 +25,7 @@ namespace _21._1
         {
             XmlSerializer xmlSerializer  = new XmlSerializer(typeof(MobileAccount));
 
-            using (FileStream fs = new FileStream("XML" + account.Number + ".xml", FileMode.OpenOrCreate))
+            using (FileStream fs = new FileStream( account.Number + "XML" + ".xml", FileMode.OpenOrCreate))
             {
                 xmlSerializer.Serialize(fs, account);
                 return true;
@@ -39,7 +39,7 @@ namespace _21._1
         {
             DataContractJsonSerializer jsonSerializer = new DataContractJsonSerializer(typeof(MobileAccount));
 
-            using (FileStream fs = new FileStream("JSON" + account.Number + ".json", FileMode.OpenOrCreate))
+            using (FileStream fs = new FileStream(account.Number + "JSON" + ".json", FileMode.OpenOrCreate))
             {                
                 jsonSerializer.WriteObject(fs, account);
                 return true;

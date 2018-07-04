@@ -5,3 +5,10 @@ c:\users\1\source\repos\21.1\21.1\bin\Debug\21.1.exe
 c:\users\1\source\repos\21.1\21.1\bin\Debug\21.1.pdb
 c:\users\1\source\repos\21.1\21.1\obj\Debug\21.1.exe
 c:\users\1\source\repos\21.1\21.1\obj\Debug\21.1.pdb
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\CSharpHW\21\1\21.1\bin\Debug\21.1.exe.config
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\CSharpHW\21\1\21.1\bin\Debug\21.1.exe
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\CSharpHW\21\1\21.1\bin\Debug\21.1.pdb
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\CSharpHW\21\1\21.1\obj\Debug\21.1.csprojAssemblyReference.cache
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\CSharpHW\21\1\21.1\obj\Debug\21.1.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\CSharpHW\21\1\21.1\obj\Debug\21.1.exe
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\CSharpHW\21\1\21.1\obj\Debug\21.1.pdb
